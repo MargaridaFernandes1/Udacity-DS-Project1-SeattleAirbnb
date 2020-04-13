@@ -1,4 +1,4 @@
-# Udacity-Project-1
+# Udacity-Seattle Airbnb
 Project 1 for Udacity Data Science NanoDegree
 
 # Motivation For the Project
